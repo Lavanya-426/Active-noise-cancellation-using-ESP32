@@ -1,0 +1,17 @@
+{
+  "name": "esp32-noise-visualizer",
+  "version": "1.0.0",
+  "description": "Real-time ESP32 noise cancellation signal visualizer",
+  "main": "serialBridge.js",
+  "scripts": {
+    "start": "node serialBridge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "serialport": "^13.0.0",
+    "ws": "^8.19.0"
+  }
+}
