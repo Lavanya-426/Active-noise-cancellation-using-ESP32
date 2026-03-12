@@ -71,7 +71,7 @@ Serial Communication
 
 * Implement advanced noise filtering algorithms
 * Add frequency spectrum visualization
-* Improve dashboard UI and responsiveness
+* Improve dashboard UI & responsiveness
 * Enable data logging for noise analysis
 
 ---
